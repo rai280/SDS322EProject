@@ -37,6 +37,7 @@ This particular data set was donated to the UCI Machine Learning Repository by c
 
 5.  Obrinsky, M., & Walter, C. (2016). Energy Efficiency in Multifamily Rental Homes: An Analysis of Residential Energy Consumption Data. The Journal of Sustainable Real Estate, 8(1), 2–19. https://www.jstor.org/stable/24876479
 </br>
+
 Below is a sample of the visualizations in this data, a plot between Building Height (X5) and Heating Load (Y1). 
 
 ```{r data, echo=FALSE}
