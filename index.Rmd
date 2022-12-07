@@ -1,0 +1,22 @@
+---
+title: "SDS 322E Final Project"
+author: "Julian Huang, Abdullah Hammamy, Shalini Das, and Anchita Raybarman"
+date: "2022-12-6"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+*Links to Project Parts and Code:*
+
+1.  [Project Part 1](/part1)
+
+2. [Project Part 2 Exploratory Analysis Code](/eac)
+
+3. [Project Part 2 Regression Code](/regression.ipynb)
+
+4.  [Project Part 2 Report](/report.pdf)
+
+</br>
