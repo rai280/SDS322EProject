@@ -268,3 +268,4 @@ shap.summary_plot(shap_values, X[::200])
 <br>
 **Below is the report for our project.**
 </br>
+![pdf](Final_Project_Report.pdf){width=100% height=400}
